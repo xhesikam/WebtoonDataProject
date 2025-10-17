@@ -4,6 +4,7 @@ Class data project analyzing the data of **Webtoon Originals**.
 
 **Created by:** Xhes & Atti  
 **Topic:** Webtoon data analysis  
+**Website with graphs:** https://sites.google.com/view/webtoonproject/home
 
 ---
 
